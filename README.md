@@ -56,7 +56,7 @@
 ## 📫 Contact
 
 * 📧 [solankegajanan2712@gmail.com](mailto:solankegajanan2712@gmail.com)
-* 💼 LinkedIn: *(Add your link)*
+* 💼 LinkedIn: www.linkedin.com/in/gajanansolanke
 
 ---
 
