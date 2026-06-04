@@ -27,7 +27,7 @@
 
 * Full Stack app using Spring Boot + React
 * Features: Authentication, Ride Booking, Management
-* 🔗 https://github.com/GajananSo/FlashRide
+
 
 ---
 
